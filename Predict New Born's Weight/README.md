@@ -33,9 +33,14 @@ BWEIGHT of these 2000 samples and show results.
 5) Seaborn 
 6) Pandas
 
-#### Machine Learning Algorithm Used: 
+#### Machine Learning Algorithm used: 
 
 Linear Regression
+
+##### Optimization Technique used: 
+
+Gradient Descent - 1) Batch Gradient Descent 
+                 - 2) Stochastic Gradient Descent
 
 #### Programming Language Used: 
 
