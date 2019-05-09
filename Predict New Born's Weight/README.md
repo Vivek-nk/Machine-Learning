@@ -6,6 +6,10 @@ announcement, but birth weight is especially important for an obstetrician. A la
 long been associated with an increased risk of injuries to a newborn and its mom. So the better a doctor
 can predict birth weight, the easier the delivery may be.” Ultrasound is a popular way of doing it. But here as a Data Scientist I am predicting weight of the baby before ultra sound!!!!!!
 
+
+### Lets Begin: 
+Lets predict the new born baby's weight using Linear Regression Implemented from scratch in python !!!!
+
 ### Dataset used: 
 
 #### ◦ baby-weights-dataset.csv
