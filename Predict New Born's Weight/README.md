@@ -25,3 +25,18 @@ training, as there are no ground truth target labels, right? Once the training i
 BWEIGHT of these 2000 samples and show results.
 
 
+#### Packages Used: 
+1) NumPy
+2) SciPy
+3) Matplotlib
+4) Sklearn
+5) Seaborn 
+6) Pandas
+
+#### Machine Learning Algorithm Used: 
+
+Linear Regression
+
+#### Programming Language Used: 
+
+Python. Program was initially written on IDE- Spider ! Uploaded as Jupyter Notebook file for better visualization!!!
