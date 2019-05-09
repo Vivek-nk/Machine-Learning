@@ -12,10 +12,10 @@ Lets predict the new born baby's weight using Linear Regression Implemented from
 
 ### Dataset used: 
 
-#### ◦ baby-weights-dataset.csv
+#### ◦ baby-weights-dataset2.csv
 ▪ It has 131422 rows (samples) with 125 columns (variables). Each sample represent a case for a new-born. It contains 125 variables. Very last
 column of it is “BWEIGHT”, that true weight of the new-born (in lbs unit). Actually, this is considered as the target variable.
-#### ◦ data-description.txt
+#### ◦ data-description2.txt
 ▪ We have the name of the 125 variables are actually contracted form of some sort. And, the source of the dataset did not offer me description of every single of them.
 But, after studying about them, I could elaborate only few of them. Okay, this file contains few descriptions for the variables. All the rest are
 mostly talking about the Mother’s medical history.
