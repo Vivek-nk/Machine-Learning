@@ -179,15 +179,15 @@ Project uses Python 3.0+ and following Python Libraries:-
 
 Project is uploaded here in the form of IPYNB File, so Jupyter Notebook of Anaconda is required to run the code. 
 
-## CODE:
+## Code:
 
 The code is prediction of predominant types of tree.ipynb
 
-## Run
+## Run:
 
-Run the code on Jupyter Notebook of Anaconda or 
+Run the code on Jupyter Notebook of Anaconda directly or 
 
-in the terminal or command window:- 
+in the terminal or command window type the following:- 
 
 jupyter notebook prediction of predominant types of tree.ipynb
 
