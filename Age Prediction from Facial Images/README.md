@@ -1,5 +1,9 @@
 # Age Prediction from Facial Images 
 
+## Principal Component Analysis 
+
+## Stochastic Gradient Descent 
+
 ## Aim: 
 To develop a python program that would be able to guess the age of person given his or her photo. 
 
