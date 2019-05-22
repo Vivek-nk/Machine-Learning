@@ -1,22 +1,19 @@
 # Predict Predominant types of Tree Coverage in a Forest 
 
-This project aims in finding the type of tree coverage in a forest from its cartographic variables (i.e Geographic Mapping Data).
+- This project aims in finding the type of tree coverage in a forest from its cartographic variables (i.e Geographic Mapping Data).
 
-Our aim is to find out the type of trees from the given data set. 
+- Our task is to find out the type of trees from the given data set. 
 
-The actual forest cover type for a given 30 x30 meter cell was determined from US Forest Service (USFS) Region 2 Resource Information System
-data. Independent variables were then derived from data obtained from the US Geological Survey and
-USFS. The data is in raw form (not scaled) and contains binary columns of data for qualitative
-independent variables such as wilderness areas and soil type.
+- The actual forest cover type for a given 30 x30 meter cell was determined from US Forest Service (USFS) Region 2 Resource Information System data. 
+- Independent variables were then derived from data obtained from the US Geological Survey and USFS.
+- The data is in raw form (not scaled) and contains binary columns of data for qualitative independent variables such as wilderness areas and soil type.
 
 ## Data Description
 
-The study area includes four wilderness areas located in the Roosevelt National Forest of northern
-Colorado. These areas represent forests with minimal human-caused disturbances, so that existing
-forest cover types are more of a result of ecological processes rather than forest management practices.
-Each observation is a 30m x 30m patch.
+- The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. 
+- These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more of a result of ecological processes rather than forest management practices. Each observation is a 30m x 30m patch.
 
-The task is to predict an integer classification for the forest coverage type. 
+- The task is to predict an integer classification for the forest coverage type. 
 
 The seven types are:
 
@@ -185,9 +182,7 @@ The code is prediction of predominant types of tree.ipynb
 
 ## Run:
 
-Run the code on Jupyter Notebook of Anaconda directly or 
-
-in the terminal or command window type the following:- 
+Run the code on Jupyter Notebook of Anaconda directly or  in the terminal or command window type the following:- 
 
 jupyter notebook prediction of predominant types of tree.ipynb
 
