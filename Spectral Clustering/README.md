@@ -30,7 +30,9 @@ clustering as it is an unsupervised learning algorithm.
 
 
 Intrinsic Measure of Evaluation
-• Sum of Squared Error, SSE
+
+- Sum of Squared Error, SSE
+
 - It is actually the sum of the squared distances between the given data samples with their corresponding centroids.
 
 
