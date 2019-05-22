@@ -22,6 +22,13 @@ Some note on the datasets
 • Treat fraudulent transaction as “positive” and legitimate as “negative” sample.
 • Due to privacy reasons, the dataset the data fields are renamed to some abstract names. Therefore, treat each field equally without giving any preference to any field in the dataset.
 
+
+### Programming language requried:
+
+Python 
+
+Code is uploaded in IPYNB format for better visualization!
+
 ### Machine Learning Algorithms Implemented From Scratch: 
 
 #### Logistic Regression based Classifier
