@@ -29,4 +29,17 @@ clustering as it is an unsupervised learning algorithm.
 - Using the “centroid linkage” method, the hierarchical clustering algorithm is ran on the dataset, and the 3-cluster is obtained (by cutting the dendrogram at a certain height)
 
 
+Intrinsic Measure of Evaluation
+• Sum of Squared Error, SSE
+- It is actually the sum of the squared distances between the given data samples with their corresponding centroids.
+
+
+- Project is implemented on Python, and requires Jupyter Notebook (Anaconda) to run.. 
+
+- K- Means Clustering and Hierarchical Clustering is implemented for performing the clustering of the given spiral data set.
+
+- Both algorithms are written from scratch.
+
+
+
 
