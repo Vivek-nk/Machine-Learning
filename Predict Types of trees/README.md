@@ -1,6 +1,8 @@
 # Predict Predominant types of Tree Coverage in a Forest 
 
-This project aims in finding the type of tree coverage in a forest from its cartographic variables (i.e Geographic Mapping Data). 
+This project aims in finding the type of tree coverage in a forest from its cartographic variables (i.e Geographic Mapping Data).
+
+Our aim is to find out the type of trees from the given data set. 
 
 The actual forest cover type for a given 30 x30 meter cell was determined from US Forest Service (USFS) Region 2 Resource Information System
 data. Independent variables were then derived from data obtained from the US Geological Survey and
@@ -159,4 +161,35 @@ Dataset consist of 15120 observations, which contains both features and cover ty
 
 There are 54 attributes/features excluding target variable, these attributes contains Binary and Quantitative Attributes. 
 
+This is a Supervised Learning Classification task. 
 
+The entire data set is spilt into 80%-20% Train data and test data respectively. And 10 K-Fold Cross Validation is being used here. 
+
+Project uses Python 3.0+ and following Python Libraries:- 
+
+->  Sklearn
+
+->  NumPy
+
+->  SciPy
+
+->  Matplotlib
+
+->  seaborn
+
+Project is uploaded here in the form of IPYNB File, so Jupyter Notebook of Anaconda is required to run the code. 
+
+## CODE:
+
+The code is prediction of predominant types of tree.ipynb
+
+## Run
+
+Run the code on Jupyter Notebook of Anaconda or 
+
+in the terminal or command window:- 
+
+jupyter notebook prediction of predominant types of tree.ipynb
+
+
+ 
